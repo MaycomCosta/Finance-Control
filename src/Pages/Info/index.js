@@ -17,7 +17,7 @@ import * as C from './styles.js'
     <C.SectionCenter>
         <h1>Oi, tudo bom?</h1>
         <p>O projeto permite aos usuários gerenciar suas finanças pessoais de forma simples e eficiente, ajudando-os a alcançar seus objetivos financeiros.</p>
-        <p>Você pode conhecer um outro projeto, uma <a href='https://thetodoliist.netlify.app/' target='_blank' rel='noreferrer'>lista de tarefas</a> diarias!</p>
+        <p>Você pode conhecer um outro projeto, um <a href='https://controleseudindin.netlify.app/' target='_blank' rel='noreferrer'>controle de finanças</a>!</p>
         <p>Você também pode me seguir no <a target='_blank' rel='noreferrer' 
         href='https://www.linkedin.com/in/maycomcosta/'>Linkedin</a>, 
         <a href='https://github.com/MaycomCosta' target='_blank' rel='noreferrer' >Github</a> e no 
